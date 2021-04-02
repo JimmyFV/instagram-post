@@ -1,0 +1,37 @@
+body{
+    background: black;
+}
+
+.post-container {
+	background: white;
+	width: 600px;
+	height: 450px;
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 15px;
+}
+
+.header-post{
+    display: flex;
+}
+#bookmark{
+    float: right;
+}
+
+.header-text{
+    padding: 0;
+}
+
+.header-icon-right{
+    padding-left: 490px;
+}
+#menu{
+    font-size: 30px;
+}
+i{
+    font-size: 35px;
+}
+
